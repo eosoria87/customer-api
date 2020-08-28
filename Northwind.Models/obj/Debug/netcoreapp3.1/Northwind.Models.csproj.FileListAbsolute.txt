@@ -1,0 +1,9 @@
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.deps.json
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csprojAssemblyReference.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.AssemblyInfoInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.AssemblyInfo.cs
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csproj.CoreCompileInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.pdb

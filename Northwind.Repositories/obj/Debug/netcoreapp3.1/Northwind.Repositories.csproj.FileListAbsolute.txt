@@ -1,0 +1,12 @@
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.deps.json
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csprojAssemblyReference.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.AssemblyInfoInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.AssemblyInfo.cs
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csproj.CopyComplete
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.pdb
