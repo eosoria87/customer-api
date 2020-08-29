@@ -1,26 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Northwind.Models.Models;
 using Northwind.UnitOfWork;
 
 namespace Northwind.WepApi.Controlllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/customer")]
     public class CustomerController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
-        public CustomerController(IUnitOfWork unitOfWork)
+        private readonly ILogger<CustomerController> _logger;
+        public CustomerController(IUnitOfWork unitOfWork, ILogger<CustomerController> logger)
         {
             _unitOfWork = unitOfWork;
+            _logger = logger;
         }
 
         [HttpGet]
-        [Route("id:int")]
+        [Route("{id:int}")]
         public IActionResult GetById(int id)
         {
             return Ok(_unitOfWork.Customer.GetById(id));
@@ -28,7 +26,7 @@ namespace Northwind.WepApi.Controlllers
 
 
         [HttpGet]
-        [Route("GetPaginatedCustomer/{page:int}/rows:int")]
+        [Route("GetPaginatedCustomer/{page:int}/{rows:int}")]
         public IActionResult GetPaginated(int page, int rows)
         {
             return Ok(_unitOfWork.Customer.CustomerPagedList(page, rows));
@@ -54,7 +52,6 @@ namespace Northwind.WepApi.Controlllers
         }
 
         [HttpDelete]
-        [Route("id:int")]
         public IActionResult Delete([FromBody] Customer model)
         {
             if (model.Id > 0)

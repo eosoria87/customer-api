@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D7558D6A-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E5A3F3D5-596E-40B7-833F-45640896703A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Models", "Northwind.Models\Northwind.Models.csproj", "{E138B775-D61E-44DA-BDC0-39FA397ED901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Models", "Northwind.Models\Northwind.Models.csproj", "{E138B775-D61E-44DA-BDC0-39FA397ED901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.UnitOfWork", "Northwind.UnitOfWork\Northwind.UnitOfWork.csproj", "{CBD989B2-0162-44C3-814A-789D17B0DB1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.UnitOfWork", "Northwind.UnitOfWork\Northwind.UnitOfWork.csproj", "{CBD989B2-0162-44C3-814A-789D17B0DB1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DataAccess", "Northwind.DataAccess\Northwind.DataAccess.csproj", "{D2CB72DD-DF64-45FA-A14E-BF1996EFE259}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.DataAccess", "Northwind.DataAccess\Northwind.DataAccess.csproj", "{D2CB72DD-DF64-45FA-A14E-BF1996EFE259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Repositories", "Northwind.Repositories\Northwind.Repositories.csproj", "{F77B175A-8B31-4581-8AA6-3ACD779DF3DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Repositories", "Northwind.Repositories\Northwind.Repositories.csproj", "{F77B175A-8B31-4581-8AA6-3ACD779DF3DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.WepApi", "Northwind.WepApi\Northwind.WepApi.csproj", "{C767E6DE-8F2C-4D9B-A246-9DFFC6AB315F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.WepApi", "Northwind.WepApi\Northwind.WepApi.csproj", "{C767E6DE-8F2C-4D9B-A246-9DFFC6AB315F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

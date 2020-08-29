@@ -63,8 +63,6 @@ C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Wep
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.csprojAssemblyReference.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.AssemblyInfoInputs.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.AssemblyInfo.cs
-C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.csproj.CoreCompileInputs.cache
-C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.RazorTargetAssemblyInfo.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.csproj.CopyComplete
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\staticwebassets\Northwind.WepApi.StaticWebAssets.Manifest.cache
@@ -72,3 +70,5 @@ C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Wep
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.dll
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.pdb
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.genruntimeconfig.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.csproj.CoreCompileInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.MvcApplicationPartsAssemblyInfo.cache

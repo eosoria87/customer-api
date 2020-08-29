@@ -20,6 +20,8 @@ namespace Northwind.WepApi
         public IConfiguration Configuration { get; }
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers();
+
             services.AddSingleton<IUnitOfWork>(option => new NorthwindUnitOfWork(
                 Configuration.GetConnectionString("Northwind")
                 ));
@@ -33,14 +35,15 @@ namespace Northwind.WepApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseHttpsRedirection();
+
             app.UseRouting();
+
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+                endpoints.MapControllers();
             });
         }
     }
