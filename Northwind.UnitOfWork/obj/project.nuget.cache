@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sKo03CZY/JiDAxoRuAbtpH7fKJ1Ihhus7vWm3amq9WltiJ/MXeIqi+KpR1hX6WmPfF7Gx5zbCJAJY1faqrrLWQ==",
+  "dgSpecHash": "VuVoZuRV2Kr06KLP5J6fA7g8wSOJk+NEi6jQzypaAm53+6ZeCeymqJUIbg955fnnxaNmL6GEm/0ull5OFE00Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

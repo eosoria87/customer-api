@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {}
+    "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
+    "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj",
         "projectName": "Northwind.Models",
-        "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj",
         "packagesPath": "C:\\Users\\eosor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\obj\\",
+        "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

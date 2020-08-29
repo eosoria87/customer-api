@@ -776,11 +776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
       "projectName": "Northwind.DataAccess",
-      "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+      "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
       "packagesPath": "C:\\Users\\eosor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -801,11 +801,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
-              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Repositories\\Northwind.Repositories.csproj"
             },
-            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
-              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj"
+            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj"
             }
           }
         }

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Repositories\\Northwind.Repositories.csproj",
       "projectName": "Northwind.Repositories",
-      "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+      "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Repositories\\Northwind.Repositories.csproj",
       "packagesPath": "C:\\Users\\eosor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,8 +58,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
-              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj"
+            "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj": {
+              "projectPath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.Models\\Northwind.Models.csproj"
             }
           }
         }

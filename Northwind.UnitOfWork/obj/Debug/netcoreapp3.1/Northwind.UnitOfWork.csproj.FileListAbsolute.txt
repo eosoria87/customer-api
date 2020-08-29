@@ -12,3 +12,17 @@ C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwin
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Repositories.pdb
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CopyComplete
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.deps.json
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Repositories.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CopyComplete
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb

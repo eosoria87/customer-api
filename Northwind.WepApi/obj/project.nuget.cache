@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhbqqyg06acMJYIIABqlWKYSMEBhKpX3Krl2DDzlwhB5vVdD+9rVMcs9fQBBw+EHj56RfKGKH9xwqlhzdR+gxQ==",
+  "dgSpecHash": "Mo6lsNjcyXZwNz4pNuqEk4cvE2bAuGc/Swt3a8XmVj/qm76a7cAz6GtGTBdYrE1lLclrbCtF7zpZ2iVFjJPHAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.WepApi\\Northwind.WepApi.csproj",
+  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.WepApi\\Northwind.WepApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eosor\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\eosor\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",

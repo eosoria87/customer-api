@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HipWVgaXUpxEqBZ7Nf1dsgHrl9FGsjrrE9vi4ncbu8e5UKKuraSqyXPV1v+BmJYGssTeeu3Zkg8Ew4GP9pcsQ==",
+  "dgSpecHash": "GUgo+BBbdfFexVrWTGPndQZfT2Zb+L+sM+3TtR9ZvYpx204lWZmHq6XSGls7UYG/JuTue+QMgYlaKOyNmBxeIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\eosor\\Music\\CodeMaze\\Udemy\\NorthwindSolution\\customer-api\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eosor\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\eosor\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
