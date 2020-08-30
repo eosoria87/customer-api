@@ -70,5 +70,9 @@ C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Wep
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.dll
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.pdb
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.genruntimeconfig.cache
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.csproj.CoreCompileInputs.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.WepApi\obj\Debug\netcoreapp3.1\Northwind.WepApi.MvcApplicationPartsAssemblyInfo.cache

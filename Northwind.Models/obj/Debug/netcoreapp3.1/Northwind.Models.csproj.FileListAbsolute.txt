@@ -15,3 +15,4 @@ C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Mod
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csproj.CoreCompileInputs.cache
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.dll
 C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\eosor\Music\CodeMaze\Udemy\NorthwindSolution\customer-api\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csprojAssemblyReference.cache
