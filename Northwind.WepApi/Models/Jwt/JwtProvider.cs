@@ -37,10 +37,10 @@ namespace Northwind.WepApi.Models.Jwt
                     new Claim(ClaimTypes.Name, $"{user.FirstName} {user.LastName}" ),
                     new Claim(ClaimTypes.Role, $"{user.Roles} {user.LastName}" ),
                     new Claim(ClaimTypes.PrimarySid, user.Id.ToString()),
-                },"Custom");
+                }, "Custom");
 
-                SecurityToken token = tokenHandler.CreateJwtSecurityToken( new SecurityTokenDescriptor
-                { 
+                SecurityToken token = tokenHandler.CreateJwtSecurityToken(new SecurityTokenDescriptor
+                {
                     Audience = _audience,
                     Issuer = _issuer,
                     SigningCredentials = new SigningCredentials(_key, _algoritm),
@@ -59,7 +59,14 @@ namespace Northwind.WepApi.Models.Jwt
 
         public TokenValidationParameters GetValidationParameters()
         {
-            throw new NotImplementedException();
+            return new TokenValidationParameters
+            {
+                IssuerSigningKey = _key,
+                ValidateAudience = true,
+                ValidateIssuer = true,
+                ValidateLifetime = true,
+                ClockSkew = TimeSpan.FromSeconds(0)
+            };
         }
     }
 }
